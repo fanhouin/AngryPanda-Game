@@ -1,5 +1,8 @@
 # AngryPanda-Game
-
+## Game Engine: Unity 2018.4.6f1
+## Game Source Code: https://drive.google.com/open?id=1j9F28gguQ4OuJMn-4E9q1tdLx9nCY2FH
+## Game Download: https://drive.google.com/file/d/1l1ZoAcVFlBDDr4y5W50QF1mj42ZrUvG-/view?usp=sharing
+## Demo Video: https://www.youtube.com/watch?v=9oxjwob-N4o
 
 ### 說明:
 #### 1. 這個遊戲類似憤怒鳥，玩家的目的是透過投擲自己來殺死敵人。
